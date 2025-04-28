@@ -1,0 +1,16 @@
+{
+  "name": "askkai-backend",
+  "version": "1.0.0",
+  "description": "Ask Kai - Node.js backend server",
+  "main": "askkai.js",
+  "scripts": {
+    "start": "node askkai.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
